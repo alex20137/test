@@ -1,9 +1,2 @@
-# university-app v0.1.2
+# university-app (pre v0.2, only the detailed website is present so that I cajnhave a reference)
 
-Features:
-- Django database working properly
-- University app working
-- Filtering has limited functionality
-- Implemented simple filter page design
-- Implemented functioning search bar
-- Implemented changeable university photos
